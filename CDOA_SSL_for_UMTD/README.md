@@ -51,11 +51,11 @@ All results are first trained by self-supervised comparison learning features an
 <td align="center">300</td>
 <td align="center">92.21</td>
 </tr>
-<td align="center">cdoa</td>
+<td align="center">CDOA</td>
 <td align="center">300</td>
 <td align="center">90.36</td>
 </tr>
-<td align="center">cdoa+</td>
+<td align="center">CDOA+</td>
 <td align="center">300</td>
 <td align="center">94.56</td>
 </tr>
